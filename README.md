@@ -3,6 +3,7 @@
 ## Описание
 Verification-code *сайт* с кодом ввода подтверждения .
 
+<img width="555" height="613" alt="image" src="https://github.com/user-attachments/assets/56bd5d57-d1d1-4256-8ffa-703a82fbbeb4" />
 
 
 ## Полезные ссылки
